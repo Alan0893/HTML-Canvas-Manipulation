@@ -1,0 +1,13 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background: url('background.jpg') no-repeat center center;
+	background-size: cover;
+}
+
+canvas {
+	display: block;
+	mix-blend-mode: screen;
+}
