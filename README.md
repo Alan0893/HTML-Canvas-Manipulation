@@ -11,4 +11,4 @@ Manipulates images using the HTML5 canvas element.
 <br>
 ➤ [Droplet Effect](https://github.com/Alan0893/HTML-Canvas-Manipulation/tree/main/Droplet%20Effect) - Mimicks water droplet ripples across an image.
 <br>
-➤ [Image Manipulation](https://github.com/Alan0893/HTML-Canvas-Manipulation/tree/main/Image%20Manipulation) - Manipulating images using canvas (desaturation...).
+➤ [Image Manipulation](https://github.com/Alan0893/HTML-Canvas-Manipulation/tree/main/Image%20Manipulation) - Manipulating images using canvas (desaturation & color filters).
